@@ -243,3 +243,6 @@ com.ea.nfshp.bv: --force-composition
 com.ea.nfshp.inc: --force-composition
 com.ea.nfshp.ipad.bv: --force-composition
 com.ea.nfshp.ipad.inc: --force-composition
+
+# Logo Quiz Free
+com.jinfra.logoquizfree: - - portrait composition
